@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VBM9jdsoZfGLxbA29gBnqrOpdspX5cuU2m4OP7zPP7c=",
+  "Source": "elevatorservice",
+  "BasePath": "_content/elevatorservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
